@@ -1,4 +1,4 @@
-# WN10-CC-000327
+# -WN10-SO-000100
 # 📡 Vulnerability Management Lab – WN10-SO-000100
 
 **Title:** The Windows SMB client must be configured to always perform SMB packet signing  
